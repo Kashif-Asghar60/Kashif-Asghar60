@@ -27,13 +27,13 @@ Building trust and delivering value for a global clientele on Upwork.
 
 ---
 
-### 💡 A Thought on Building Software
+###  A Thought on Building Software
 > "Programming isn't about what you know; it's about what you can figure out."  
 > — Chris Pine
 
 ---
 
-### ✨ Featured Projects
+###  Featured Projects
 Coming soon! I'm currently preparing my best work from 4+ years of development to showcase here.
 
 *Want to see my work now? [Check out my Upwork profile](https://www.upwork.com/freelancers/kashifasghar) for case studies and client testimonials.*
