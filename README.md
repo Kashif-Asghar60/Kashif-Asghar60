@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a versatile Mobile and Full-Stack Developer with over 4 years of experience architecting, building, and launching digital solutions for a global clientele. My passion lies in turning complex problems into elegant, user-centric applications that deliver tangible impact—whether that's streamlining agricultural logistics with offline-first CRMs, modernizing telemedicine onboarding, or optimizing delivery ecosystems.
 
 My technical foundation is built on Flutter & Dart for creating beautiful, performant cross-platform mobile apps, complemented by React for dynamic web interfaces. I thrive on the full development lifecycle, from initial client consultation and system design with tools like Figma, to implementing robust backends with Node.js, Firebase, and PHP/Laravel, all the way through to seamless deployment on the App Store and Google Play.
@@ -9,7 +9,7 @@ I'm always eager to collaborate on challenging projects that require clean code,
 
 ---
 
-### 🚀 Freelancing Excellence
+### Freelancing Excellence
 Building trust and delivering value for a global clientele on Upwork.
 - **100% Job Success Score** – Consistent top-rated performance
 - **$10K+ in Total Earnings** – From 23 successfully completed projects
